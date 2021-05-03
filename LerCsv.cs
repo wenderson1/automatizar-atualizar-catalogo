@@ -9,7 +9,7 @@ namespace TestProject1
     {
         public static List<string> Page_Load()
         {
-            StreamReader stream = new StreamReader(@"A:\qlc-ids.csv");
+            StreamReader stream = new StreamReader(@"A:\arquivo.csv");
             List<string> valores = new List<string>();
 
             string linha = null;
