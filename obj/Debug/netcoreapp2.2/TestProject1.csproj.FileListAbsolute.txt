@@ -1,0 +1,15 @@
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.deps.json
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.runtimeconfig.json
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.runtimeconfig.dev.json
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.dll
+A:\workspace\.net\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.pdb
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.csprojAssemblyReference.cache
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.AssemblyInfoInputs.cache
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.AssemblyInfo.cs
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.csproj.CoreCompileInputs.cache
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.dll
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.pdb
+A:\workspace\.net\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.genruntimeconfig.cache
